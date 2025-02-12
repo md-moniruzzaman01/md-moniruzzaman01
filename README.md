@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-moniruzzaman01&label=Profile%20views&color=0e75b6&style=flat" alt="md-moniruzzaman01" /> </p>
 
-- 🌱 I’m currently learning **NextJs & TypeScript**
+- 🌱 I’m currently learning **NestJs & C++**
 
 - 👨‍💻 All of my projects are available at [https://dev-moniruzzaman.web.app/](https://dev-moniruzzaman.web.app/)
 
