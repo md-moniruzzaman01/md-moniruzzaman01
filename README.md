@@ -20,15 +20,13 @@
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/yousuf/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100075747180017" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-</p>
+## 🌐 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moniruzzaman-ripon/)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=100075747180017)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_moniruzaman)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:dev.moniryzzaman@gmail.com)
+
 
 ---
 
