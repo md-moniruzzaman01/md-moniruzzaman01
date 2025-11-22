@@ -11,24 +11,14 @@
 ### 👨‍💻 About Me  
  I’m a Full Stack Developer with a strong focus on backend engineering and scalable software architecture. I specialize in building high-performance, production-ready applications using modern technologies and clean design principles. I enjoy solving complex problems, designing efficient systems, and creating seamless user experiences. My work often involves microservices, distributed systems, cloud-ready APIs, and modern frontend frameworks.
 
+&nbsp;&nbsp;&nbsp;
 
 
 - 💼 Skilled in  **Microservices**, **Clean Architecture**, and **Cloud-ready backend systems**  
-- 💬 Ask me about  **React, Next.js, Node.js, NestJS, Prisma, SQL/NoSQL, TypeScript**  
 - 👨‍💻 Portfolio:  **[dev-moniruzzaman.web.app](https://dev-moniruzzaman.web.app/)**  
 - 📫 Reach me at:  **dev.moniruzzaman@gmail.com**
 
----
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moniruzzaman-ripon/)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=100075747180017)
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_moniruzaman)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:dev.moniryzzaman@gmail.com)
-
-
----
 
 ## 🛠️ Languages & Tools  
 
@@ -72,6 +62,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
 </p>
+
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moniruzzaman-ripon/)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=100075747180017)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/dev_moniruzaman)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:dev.moniryzzaman@gmail.com)
+
+
+---
 
 ---
 
