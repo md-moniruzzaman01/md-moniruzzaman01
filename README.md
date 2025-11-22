@@ -76,20 +76,4 @@
 
 ---
 
----
 
-## 📊 GitHub Stats  
-
-<p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-moniruzzaman01&show_icons=true&layout=compact" />
-</p>
-
-<p>
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=md-moniruzzaman01&show_icons=true" />
-</p>
-
-<p>
-<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-moniruzzaman01" />
-</p>
-
----
